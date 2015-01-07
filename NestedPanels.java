@@ -14,7 +14,7 @@ public class NestedPanels {
   subPanel_1.setBackground(Color.blue);
 
   JPanel subPanel_2 = new JPanel();
-  JLabel label_2 = new JLabel("Worls");
+  JLabel label_2 = new JLabel("World");
  subPanel_2.add(label_2);
   
   JPanel primary = new JPanel();
