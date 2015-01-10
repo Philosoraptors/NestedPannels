@@ -19,7 +19,7 @@ public class NestedPanels {
 
 
   JPanel subPanel_2 = new JPanel();
-  JLabel label_2 = new JLabel("World");
+  JLabel label_2 = new JLabel("World"); // typo fixed by Nat
   subPanel_2.add(label_2);
   subPanel_2.setPreferredSize(new Dimension(100, 100)); // added by Claude
   subPanel_2.setBorder(BorderFactory.createMatteBorder(5, 5, 5, 5, Color.blue)); // added by Claude
